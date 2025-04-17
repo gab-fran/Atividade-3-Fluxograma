@@ -1,5 +1,5 @@
 console.clear();
-const teclado = require("prompt-sync")();
+const teclado = require('prompt-sync')();
 
 let idade: number = 0;
 let salario: number = 0;
